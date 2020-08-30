@@ -37,6 +37,8 @@ class CashRegister
       end 
     end 
     item_names
-  end 
+  end
+  
+  def 
 
 end
